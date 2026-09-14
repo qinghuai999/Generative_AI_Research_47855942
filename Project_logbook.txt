@@ -1,6 +1,6 @@
 Project logbook for Generative AI research study.
 Week 1: Repository and folder structure set up by reviewer.
 Week 2: Kiki join the team, then try to merge branch.
-Week 3: 
+Week 3: Developer 2 added a progress note to practise branch-based collaboration and pull request review.
 Week 4: 
 Week 5:
